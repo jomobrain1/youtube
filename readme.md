@@ -6,29 +6,36 @@ Am a passionate software devoloper doing both frontend and backend
    <p><img src="./images/me.jpg" width="300" height="300"></p>
   
   <div>
-    ## frontend
-                <ol>
-                <li>React</li>
-                <li>Vue</li>
-                <li>Flutter</li>
-                </ol>
+   <h2>frontend</h2>
+                
+                1.React
+                2.Vue
+                3.Flutter
+                
   </div>
+                  
+
+ <div>
+  <h2>Backend  </h2> 
+    1.Php
+    2.Laravel
+    3.Node.js
+ </div>    
+
+               
+
+   <div>
+   <h2>Databases</h2>
+   1. Mysql
+   2. Mongo
+   3. Firebase
+   </div>         
                   
                 
 
-                ## Backend
-
-                <ol>
-                    <li>Php</li>
-                    <li>Laravel</li>
-                    <li>Node.js</li>
-                </ol>
-
-                ## Databases
-                <ol>
-                    <li>Mysql</li>
-                    <li>Mongo</li>
-                    <li>Firebase</li>
-                </ol> 
+                
+            
+                    
+                
 
 </div>
