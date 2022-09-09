@@ -31,7 +31,7 @@ Am a passionate software devoloper doing both frontend and backend
   <p> 2.Mongo</p> 
   <p> 3.Firebase</p> 
    
- </div> >         
+ </div>        
                   
                 
 
