@@ -1,5 +1,5 @@
 # scroll
 
 <p align="center">
-<img src="./images/screen.png" width="300">
+<img src="./images/sd.png" width="300">
 </p>
