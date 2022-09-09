@@ -1,8 +1,11 @@
 # i am Jomo Brain Mwenga
 
-Am a passionate software devoloper doing both frontend and backend
   <div align="center">
+<b>
+Am a passionate software devoloper doing both frontend and backend. 
+follow me on github
 
+</b>
    <p><img src="./images/me.jpg" width="300" height="300"></p>
   
   
