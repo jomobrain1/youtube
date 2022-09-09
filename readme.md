@@ -5,12 +5,16 @@ Am a passionate software devoloper doing both frontend and backend
 
    <p><img src="./images/me.jpg" width="300" height="300"></p>
   
-                  ##Front end
+  <div>
+    ## frontend
                 <ol>
                 <li>React</li>
                 <li>Vue</li>
                 <li>Flutter</li>
                 </ol>
+  </div>
+                  
+                
 
                 ## Backend
 
